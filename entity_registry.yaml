@@ -1,0 +1,950 @@
+zwave.aeotec_zw090_zstick_gen5_eu:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: node-1
+zwave.neo_coolcam_power_plug_12a:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: node-3
+zwave.neo_coolcam_power_plug_12a_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: node-4
+zwave.wenzhou_tkb_control_system_unknown_type0001_id0003:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: node-9
+zwave.wenzhou_tkb_control_system_unknown_type0001_id0003_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: node-10
+switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-144115188231651328
+switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-216172782269579264
+switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-288230376307507200
+zwave.neo_coolcam_power_plug_12a_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: node-5
+zwave.neo_coolcam_power_plug_12a_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: node-6
+zwave.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: node-8
+switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-144115188248428544
+switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-216172782286356480
+switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-288230376324284416
+sensor.neo_coolcam_power_plug_12a_power:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273218
+sensor.neo_coolcam_power_plug_12a_voltage:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273346
+sensor.neo_coolcam_power_plug_12a_current:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273410
+sensor.neo_coolcam_power_plug_12a_exporting:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273600
+sensor.neo_coolcam_power_plug_12a_sourcenodeid:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594094305313
+sensor.neo_coolcam_power_plug_12a_power_management:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594094305457
+sensor.neo_coolcam_power_plug_12a_alarm_type:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594094305281
+sensor.neo_coolcam_power_plug_12a_alarm_level:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594094305297
+sensor.neo_coolcam_power_plug_12a_energy:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273090
+switch.neo_coolcam_power_plug_12a_switch:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093060096
+sensor.neo_coolcam_power_plug_12a_power_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050434
+sensor.neo_coolcam_power_plug_12a_alarm_level_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594111082513
+sensor.neo_coolcam_power_plug_12a_energy_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050306
+sensor.neo_coolcam_power_plug_12a_voltage_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050562
+sensor.neo_coolcam_power_plug_12a_current_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050626
+sensor.neo_coolcam_power_plug_12a_exporting_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050816
+sensor.neo_coolcam_power_plug_12a_sourcenodeid_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594111082529
+sensor.neo_coolcam_power_plug_12a_power_management_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594111082673
+switch.neo_coolcam_power_plug_12a_switch_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594109837312
+sensor.neo_coolcam_power_plug_12a_alarm_type_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594111082497
+sensor.neo_coolcam_power_plug_12a_power_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827650
+sensor.neo_coolcam_power_plug_12a_voltage_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827778
+sensor.neo_coolcam_power_plug_12a_current_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827842
+sensor.neo_coolcam_power_plug_12a_exporting_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126828032
+sensor.neo_coolcam_power_plug_12a_sourcenodeid_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594127859745
+switch.neo_coolcam_power_plug_12a_switch_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126614528
+sensor.neo_coolcam_power_plug_12a_power_management_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594127859889
+sensor.neo_coolcam_power_plug_12a_alarm_type_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594127859713
+sensor.neo_coolcam_power_plug_12a_alarm_level_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594127859729
+sensor.neo_coolcam_power_plug_12a_energy_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827522
+sensor.neo_coolcam_power_plug_12a_power_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143604866
+sensor.neo_coolcam_power_plug_12a_voltage_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143604994
+sensor.neo_coolcam_power_plug_12a_alarm_type_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594144636929
+sensor.neo_coolcam_power_plug_12a_alarm_level_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594144636945
+sensor.neo_coolcam_power_plug_12a_energy_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143604738
+sensor.neo_coolcam_power_plug_12a_current_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143605058
+sensor.neo_coolcam_power_plug_12a_exporting_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143605248
+switch.neo_coolcam_power_plug_12a_switch_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143391744
+sensor.neo_coolcam_power_plug_12a_sourcenodeid_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594144636961
+sensor.neo_coolcam_power_plug_12a_power_management_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594144637105
+switch.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_switch:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-144115188214874112
+switch.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_switch_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-216172782252802048
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594193936514
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_voltage:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594193936642
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_current:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594193936706
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_factor:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594193936770
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_exporting:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594193936896
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-144115188231864450
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_voltage_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-144115188231864578
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_current_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-144115188231864642
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_factor_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-144115188231864706
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_exporting_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-144115188231864832
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-216172782269792386
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_voltage_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-216172782269792514
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_current_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-216172782269792578
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_factor_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-216172782269792642
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_exporting_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-216172782269792768
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-288230376307720322
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_voltage_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-288230376307720450
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_current_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-288230376307720514
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_factor_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-288230376307720578
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_exporting_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-288230376307720704
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_energy:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-144115188231864322
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_energy_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-216172782269792258
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_energy_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594193936386
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_alarm_type:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594194968577
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_alarm_level:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594194968593
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_energy_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-288230376307720194
+switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594193723392
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594210713730
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_voltage_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594210713858
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_current_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594210713922
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_factor_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594210713986
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_exporting_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594210714112
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-144115188248641666
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_voltage_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-144115188248641794
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_current_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-144115188248641858
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_factor_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-144115188248641922
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_exporting_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-144115188248642048
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-216172782286569602
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_voltage_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-216172782286569730
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_current_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-216172782286569794
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_factor_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-216172782286569858
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_exporting_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-216172782286569984
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-288230376324497538
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_voltage_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-288230376324497666
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_current_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-288230376324497730
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_power_factor_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-288230376324497794
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_exporting_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-288230376324497920
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_energy_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594210713602
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_alarm_type_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594211745793
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_alarm_level_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594211745809
+switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594210500608
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_energy_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-144115188248641538
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_energy_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-216172782286569474
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_energy_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-288230376324497410
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_power:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-72057594177159298
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_voltage:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-72057594177159426
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_current:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-72057594177159490
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_power_factor:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-72057594177159554
+switch.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_switch_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-72057594176946176
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_power_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-144115188215087234
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_voltage_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-144115188215087362
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_current_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-144115188215087426
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_power_factor_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-144115188215087490
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_power_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-216172782253015170
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_voltage_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-216172782253015298
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_current_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-216172782253015362
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_power_factor_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-216172782253015426
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_none:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-72057594178191361
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_none_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-72057594178191377
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_energy:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-72057594177159170
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_energy_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-144115188215087106
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_energy_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-216172782253015042
+sensor.neo_coolcam_power_plug_12a_previous_reading:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273106
+sensor.neo_coolcam_power_plug_12a_interval:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273123
+sensor.neo_coolcam_power_plug_12a_previous_reading_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273234
+sensor.neo_coolcam_power_plug_12a_interval_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273251
+sensor.neo_coolcam_power_plug_12a_previous_reading_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273362
+sensor.neo_coolcam_power_plug_12a_interval_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273379
+sensor.neo_coolcam_power_plug_12a_previous_reading_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273426
+sensor.neo_coolcam_power_plug_12a_interval_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 3-72057594093273443
+sensor.neo_coolcam_power_plug_12a_previous_reading_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050322
+sensor.neo_coolcam_power_plug_12a_interval_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050339
+sensor.neo_coolcam_power_plug_12a_previous_reading_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050450
+sensor.neo_coolcam_power_plug_12a_interval_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050467
+sensor.neo_coolcam_power_plug_12a_previous_reading_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050578
+sensor.neo_coolcam_power_plug_12a_interval_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050595
+sensor.neo_coolcam_power_plug_12a_previous_reading_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050642
+sensor.neo_coolcam_power_plug_12a_interval_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 4-72057594110050659
+sensor.neo_coolcam_power_plug_12a_previous_reading_9:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827538
+sensor.neo_coolcam_power_plug_12a_interval_9:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827555
+sensor.neo_coolcam_power_plug_12a_previous_reading_10:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827666
+sensor.neo_coolcam_power_plug_12a_interval_10:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827683
+sensor.neo_coolcam_power_plug_12a_previous_reading_11:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827794
+sensor.neo_coolcam_power_plug_12a_interval_11:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827811
+sensor.neo_coolcam_power_plug_12a_previous_reading_12:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827858
+sensor.neo_coolcam_power_plug_12a_interval_12:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 5-72057594126827875
+sensor.neo_coolcam_power_plug_12a_previous_reading_13:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143604754
+sensor.neo_coolcam_power_plug_12a_interval_13:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143604771
+sensor.neo_coolcam_power_plug_12a_previous_reading_14:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143604882
+sensor.neo_coolcam_power_plug_12a_interval_14:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143604899
+sensor.neo_coolcam_power_plug_12a_previous_reading_15:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143605010
+sensor.neo_coolcam_power_plug_12a_interval_15:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143605027
+sensor.neo_coolcam_power_plug_12a_previous_reading_16:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143605074
+sensor.neo_coolcam_power_plug_12a_interval_16:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 6-72057594143605091
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_previous_reading:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594193936402
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_interval:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-72057594193936419
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_previous_reading_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-144115188231864338
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_interval_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-144115188231864355
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_previous_reading_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-216172782269792274
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_interval_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-216172782269792291
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_previous_reading_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-288230376307720210
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_interval_4:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 9-288230376307720227
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_previous_reading_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594210713618
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_interval_5:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-72057594210713635
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_previous_reading_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-144115188248641554
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_interval_6:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-144115188248641571
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_previous_reading_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-216172782286569490
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_interval_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-216172782286569507
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_previous_reading_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-288230376324497426
+sensor.wenzhou_tkb_control_system_unknown_type0001_id0003_interval_8:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 10-288230376324497443
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_previous_reading:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-72057594177159186
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_previous_reading_2:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-144115188215087122
+sensor.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_previous_reading_3:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 8-216172782253015058
+zwave.unknown_node_7:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: node-7
+zwave.fibaro_system_fgms001zw5_motion_sensor:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: node-2
+sensor.fibaro_system_fgms001zw5_motion_sensor_temperature:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 2-72057594076479506
+sensor.fibaro_system_fgms001zw5_motion_sensor_luminance:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 2-72057594076479538
+sensor.fibaro_system_fgms001zw5_motion_sensor_seismic_intensity:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 2-72057594076479890
+sensor.fibaro_system_fgms001zw5_motion_sensor_sourcenodeid:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 2-72057594077528097
+sensor.fibaro_system_fgms001zw5_motion_sensor_burglar:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 2-72057594077528225
+binary_sensor.fibaro_system_fgms001zw5_motion_sensor_sensor:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 2-72057594076463104
+sensor.fibaro_system_fgms001zw5_motion_sensor_general:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 2-72057594078232577
+sensor.fibaro_system_fgms001zw5_motion_sensor_alarm_type:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 2-72057594077528065
+sensor.fibaro_system_fgms001zw5_motion_sensor_alarm_level:
+  config_entry_id:
+  name:
+  platform: zwave
+  unique_id: 2-72057594077528081

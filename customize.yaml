@@ -1,0 +1,31 @@
+# soveværelse
+  switch.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_switch_2: # spot soveværelse
+    friendly_name: Spotlys
+    
+# stue
+  switch.neo_coolcam_power_plug_12a_switch: #kontor led
+    friendly_name: Kontor LED
+  switch.neo_coolcam_power_plug_12a_switch_2: # georg jensen
+    friendly_name: Georg Jensen Lampe
+    
+# loftet
+  switch.neo_coolcam_power_plug_12a_switch_3:
+    friendly_name: Lampe på loftet
+
+# badværelse
+  switch.neo_coolcam_power_plug_12a_switch_4: # elektriske apparater bad
+    friendly_name: Elektriske apparater
+  switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_2: # lys bad
+    friendly_name: Lys
+  switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_3: # blæser
+    friendly_name: Udsugning
+
+# køkken
+  switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_5: # lys køkkenbord
+    friendly_name: Køkkenbord
+  switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_8: # loftlys over barbord
+    friendly_name: Spotlys    
+  sensor.fibaro_system_fgms001zw5_motion_sensor_temperature:
+    friendly_name: Temperatur 
+  sensor.fibaro_system_fgms001zw5_motion_sensor_luminance:
+    friendly_name: Luminance

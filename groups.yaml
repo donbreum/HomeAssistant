@@ -1,0 +1,45 @@
+  default_view:
+    view: yes
+    icon: mdi:home
+    entities:
+      - group.living_room
+      - group.attic
+      - group.bathroom
+      - group.bedroom
+      - group.kitchen
+      - group.automations
+  living_room:
+    name: Stue
+    entities:
+      - switch.neo_coolcam_power_plug_12a_switch #kontor led
+      - switch.neo_coolcam_power_plug_12a_switch_2 # georg jensen
+      - sensor.fibaro_system_fgms001zw5_motion_sensor_temperature
+      - sensor.fibaro_system_fgms001zw5_motion_sensor_luminance
+  bathroom:
+    name: Badeværelse
+    entities:
+      - switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_3 # blæser
+      - switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_2 # lys
+      - switch.neo_coolcam_power_plug_12a_switch_4 # elektriske apparater bad
+  attic:
+    name: Loft
+    entities:
+      - switch.neo_coolcam_power_plug_12a_switch_3
+  bedroom:
+    name: Soveværelse
+    entities:
+      - switch.philio_technology_corporation_pan041_double_relay_switch_2x15kw_with_power_measurement_switch_2
+  kitchen:
+    name: Køkken
+    entities:
+      - switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_8 # loftlys over barbord
+      - switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_5 # lys køkkenbord
+  automations:
+    name: Automations
+    entities:
+      - automation.turn_on_kitchen_light_when_there_is_movement
+      - automation.turn_off_kitchen_light_10_minutes_after_last_movement
+      - automation.turn_off_electric_devices_in_bathroom_after_15_min
+
+
+

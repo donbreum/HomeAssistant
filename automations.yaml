@@ -1,0 +1,32 @@
+# køkken
+- alias: Turn on kitchen light when there is movement
+  trigger:
+    platform: state
+    entity_id: binary_sensor.fibaro_system_fgms001zw5_motion_sensor_sensor
+    to: 'on'
+  action:
+    service: homeassistant.turn_on
+    entity_id: switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_8 # loftlys over barbord
+
+- alias: Turn off kitchen light 10 minutes after last movement
+  trigger:
+    platform: state
+    entity_id: binary_sensor.fibaro_system_fgms001zw5_motion_sensor_sensor
+    to: 'off'
+    for:
+      minutes: 10
+  action:
+    service: homeassistant.turn_off
+    entity_id: switch.wenzhou_tkb_control_system_unknown_type0001_id0003_switch_8 # loftlys over barbord
+
+# badeværelse
+- alias: Turn off electric devices in bathroom after 15 min
+  trigger:
+    platform: state
+    entity_id: switch.neo_coolcam_power_plug_12a_switch_4 # elektriske apparater bad
+    to: 'on'
+    for:
+      minutes: 15
+  action:
+    service: homeassistant.turn_off
+    entity_id: switch.neo_coolcam_power_plug_12a_switch_4 # elektriske apparater bad
